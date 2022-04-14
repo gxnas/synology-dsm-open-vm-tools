@@ -91,7 +91,7 @@ Delete the `.tar.gz`-file:
 
 **6.** Clone the `open-vm-tools` build files:
 
-`git clone https://github.com/perrin-1/synology-dsm-open-vm-tools.git ~/tmp/open-vm-tools`
+`git clone https://github.com/gxnas/synology-dsm-open-vm-tools.git ~/tmp/open-vm-tools`
 
 **7.** Edit the following file which holds the according checksum files and replace all values with the previously generated checksums from `~/tmp/checksums.txt`:
 
